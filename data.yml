@@ -1,0 +1,7 @@
+# data.yaml
+train: /home/oguzhan/goruntu/images/train
+val: /home/oguzhan/goruntu/images/val
+test: /home/oguzhan/goruntu/images/test  # Eğer test setiniz varsa
+
+nc: 3  # Örneğin 3 sınıf varsa
+names: ['sınıf1', 'sınıf2', 'sınıf3']

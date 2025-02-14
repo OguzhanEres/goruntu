@@ -1,0 +1,3 @@
+#bu kodu vs code üzerinde terminal kısmına yapıştırmalısınız. Ya da colab de direkt hücrede çalıştırmalısınız.
+
+git clone https://github.com/ultralytics/yolov5 
